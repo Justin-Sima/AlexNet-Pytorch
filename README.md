@@ -1,4 +1,6 @@
 # AlexNet-Pytorch
 Under construction...
 
-TODO: PCA brightness augmentation.
+TODO:
+1. PCA brightness augmentation.
+2. Optimizer.
